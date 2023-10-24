@@ -1,2 +1,1 @@
 # bytecoin
-# bytecoin
